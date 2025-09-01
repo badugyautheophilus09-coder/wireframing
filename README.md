@@ -60,4 +60,26 @@ Based on the current state of this project, the wireframes fall under **Low-Fide
 - The designs are primarily focused on **layout, structure, and content placement** rather than visual styling or interactivity.  
 - This makes them useful for **early-stage ideation and planning**, before moving into high-fidelity prototypes.
 
+  ## Popular Wireframing Tools
+
+Designers use various tools to create wireframes, ranging from quick sketching apps to fully featured design platforms. Some of the most popular wireframing tools include:
+
+- **Balsamiq:** Great for quick, low-fidelity wireframes that look like sketches.  
+- **Adobe XD:** A versatile tool for both wireframing and prototyping with interactive features.  
+- **Sketch:** Popular among macOS users for high-fidelity design and prototyping.  
+- **Figma:** A cloud-based, collaborative design tool.
+
+### Why Figma is Recommended
+Figma has become one of the most widely used tools for wireframing and design because of its flexibility and ease of collaboration.  
+
+Key features include:
+- **Real-time Collaboration:** Multiple people can work on the same wireframe at once, similar to Google Docs.  
+- **Cross-Platform:** Runs in the browser or desktop app, and works on Windows, macOS, Linux, and even mobile.  
+- **Component System:** Reusable components make it easy to maintain consistency across wireframes.  
+- **Prototyping Capabilities:** Designers can turn static wireframes into clickable prototypes without switching tools.  
+- **Free Plan Available:** A great option for individuals and small teams starting out.  
+
+👉 Because of these features, **Figma is highly recommended** for both beginners and professionals working on wireframes.
+
+
 
