@@ -33,5 +33,31 @@ Represents interactive elements like buttons, forms, and input fields. It focuse
 *Example:* A **“Book Now” button** on the room details page allows users to start the checkout process.  
 
 ---
+## Types of Wireframes
 
-✅ This repository will contain examples, exercises, and resources on wireframing for digital product design.  
+Wireframes can vary in detail depending on the stage of the design process. The two most common types are:
+
+### Low-Fidelity Wireframes
+- **Appearance:** Simple, often grayscale sketches or digital outlines.  
+- **Purpose:** Focus on structure and layout rather than design details.  
+- **When Used:** Early in the design process to brainstorm ideas, explore layouts, and get quick feedback without investing too much time in styling.  
+
+👉 Example: Boxes representing images, lines representing text, placeholders for buttons.
+
+### High-Fidelity Wireframes
+- **Appearance:** Detailed and polished, with typography, colors, spacing, and sometimes even interactive elements.  
+- **Purpose:** Communicate exactly how the final product will look and function. Useful for usability testing and handoff to developers.  
+- **When Used:** Later in the design process, once the layout and flow are finalized.  
+
+👉 Example: A fully designed app screen that looks almost identical to the final product.
+
+---
+
+## What Type of Wireframe Is This Project?
+
+Based on the current state of this project, the wireframes fall under **Low-Fidelity**.  
+
+- The designs are primarily focused on **layout, structure, and content placement** rather than visual styling or interactivity.  
+- This makes them useful for **early-stage ideation and planning**, before moving into high-fidelity prototypes.
+
+
